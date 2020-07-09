@@ -1,0 +1,13 @@
+li{
+    list-style: none;
+    display: inline;
+    text-align: right;
+}
+
+a{
+    text-decoration: none;
+    margin-right: 10px;
+    margin-left: 10px;
+    background: turquoise;
+    font-size: 20px;
+}
